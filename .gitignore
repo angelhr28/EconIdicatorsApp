@@ -1,0 +1,52 @@
+# --- SO ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+*.hprof
+
+# --- IDE (Android Studio / IntelliJ) ---
+.idea/
+*.iml
+
+# --- Gradle ---
+.gradle/
+local.properties
+**/build/
+**/out/
+
+# --- Android / NDK ---
+captures/
+.externalNativeBuild/
+.cxx/
+obj/
+output.json
+
+# --- KAPT / KSP / Compose ---
+**/build/kapt/
+**/build/ksp/
+**/compose_metrics/
+**/compose_reports/
+
+# --- Lint / Tests ---
+lint/reports/
+lint/tmp/
+*.lint
+
+# --- Firmas / secretos ---
+*.jks
+*.keystore
+key.properties
+signing.properties
+*.keystore.properties
+*.pem
+*.p12
+*.key
+*.der
+*.crt
+
+# --- Artefactos ---
+*.apk
+*.aab
+*.ap_
