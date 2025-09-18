@@ -17,3 +17,8 @@ Challenge: Login/Registro/Cerrar sesión nativo + Indicadores económicos con ba
 ## Tech
 - Kotlin, Jetpack Compose, Navigation, Hilt, Retrofit/Moshi, OkHttp, Room, Coroutines/Flows.
 # EconIdicatorsApp
+
+
+
+https://github.com/user-attachments/assets/d3586311-5970-4fbd-b8ec-6a496676441f
+
