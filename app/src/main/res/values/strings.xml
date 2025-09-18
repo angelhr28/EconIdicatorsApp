@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Reto Yape</string>
+    <string name="search">Buscar</string>
+    <string name="accept">Aceptar</string>
+    <string name="error">Error</string>
+    <string name="empty_result">No se encontraron resultados</string>
+    <string name="generic_error_message">Ocurrió un error inesperado</string>
+    <string name="network_error_message">Comprueba tu conexión a Internet</string>
+    <string name="preparation">Preparación</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="show_origin">Ver Origen</string>
+    <string name="it_originated_here">Se originó aquí</string>
+
+    <string name="clear_text_description">Icono borrar texto</string>
+    <string name="error_icon_description">Icono error</string>
+    <string name="refresh_icon_description">Icono actualizar</string>
+    <string name="generic_icon_description">Icono genérico</string>
+    <string name="icon_back">Icono volver</string>
+    <string name="icon_show_origin">Icono ver origen</string>
+</resources>
